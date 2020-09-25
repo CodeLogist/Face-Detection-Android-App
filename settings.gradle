@@ -1,0 +1,3 @@
+rootProject.name='ZoeticAIChallenge-Face-Detection'
+include ':app', ':engine'
+include ':openCVLibrary320'

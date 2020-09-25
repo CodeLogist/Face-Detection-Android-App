@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZoeticAIChallenge</string>
+
+    <string name="real_face">Real</string>
+    <string name="fake_face">Fake</string>
+    <string name="set_threshold_dialog_title">Set Threshold</string>
+    <string name="set_threshold_dialog_text_hint">Threshold range 0–1, recommended threshold 0.915</string>
+    <string name="set_threshold_dialog_confirm">Determine</string>
+    <string name="set_threshold_dialog_hint">Please enter a threshold</string>
+</resources>
